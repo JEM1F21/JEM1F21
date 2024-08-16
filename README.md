@@ -12,4 +12,4 @@ Tenho 15 anos ;-;
 
 outro pq é bom !!!
 
-https://media1.tenor.com/m/xWPaojwX8g0AAAAC/skeleton-meme.gif
+![descrição do GIF](https://media1.tenor.com/m/xWPaojwX8g0AAAAC/skeleton-meme.gif)
